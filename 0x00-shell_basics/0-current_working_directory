@@ -1,0 +1,4 @@
+#!/bin/bash
+
+new_var=$PWD
+echo $new_var
